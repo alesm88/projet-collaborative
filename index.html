@@ -1,14 +1,32 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Groupe 3</title>
+<title></title>
 </head>
 <body>
+<form action="/action_page.php" method="post" id="usrform">
 
-<h1>Membres d'equipe</h1>
-<p>Chef de projet : Alejandro</p>
-<p>Technicien : Thomas</p>
-<p>Documentaliste : Charlene</p>
+<label for="prenom">Prenom:</label>
+<input type="text" id="prenom" name="prenom">
 
+<label for="nom">Nom:</label>
+<input type="text" id="nom" name="nom">
+
+<label for="email">Email:</label>
+<input type="email" id="email" name="email">
+
+<label for="message">Message:</label>
+<textarea id="message" rows="10" cols="30" name="message">
+</textarea>
+
+<input type="submit" value="Envoyer">
+</form>
+<footer>
+  <p>GaïaTech<br>
+  10 Avenue de Espagne<br>
+  Bayonne<br>
+  06 12 34 56 78<br>
+  <a href="mailto:gaia@gaiatech.com">gaia@gaiatech.com</a></p>
+</footer>
 </body>
 </html>
