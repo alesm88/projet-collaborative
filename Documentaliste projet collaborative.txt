@@ -1,0 +1,45 @@
+﻿DOCUMENTALIST
+
+
+Télécharger Discord
+Télécharger GITHub
+Création de compte Github
+
+
+Chef de projet 
+
+
+Création d’un nouveau répertoire sur Github
+Création d’un fichier READ.ME et dépôt sur Github
+Description du fichier nommé #projet collaborative
+Création d’une branche de groupe 3
+Envoie des liens sur Discord
+Création d'une branche pour chaque personne du groupe 3
+
+
+Documentaliste
+
+
+Rédaction de la liste de charges du projet
+Recherche d’informations
+
+
+Technicien
+
+
+Création page html
+
+
+gérer une modification de branche specifique (ex. : charlene)
+Avoir les dernières modifications
+
+
+Sur terminal
+
+
+dans le répertoire se positionner sur la dernière branche avec rajout de modif
+git switch nomBranch
+
+
+une fois positionnée, télécharger les dernières mise à jours de cette branche particulier
+git pull origin nomBranch
